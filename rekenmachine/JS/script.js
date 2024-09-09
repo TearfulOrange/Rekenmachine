@@ -1,3 +1,0 @@
-// Rekenmachine
-
-const 
