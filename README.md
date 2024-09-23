@@ -1,1 +1,1 @@
-Dit is een repository met alle projecten die ik heb voltijd in mijn tijd als software development student.
+Dit is een repository met alle projecten die ik heb volooid in mijn tijd als software development student.
